@@ -1,0 +1,339 @@
+,GlobalEventID,Day,ActionGeo_Fullname,Actor1Name,Actor2Name,SOURCEURL,investigate
+0,882858389,20191028,"Pennsylvania, United States",GEORGE W. BUSH,,https://theintercept.com/2019/10/28/joe-biden-real-estate-fundraiser/,False
+1,882870393,20191028,United Kingdom,,UNITED STATES,https://www.nbcnews.com/feature/nbc-out/tennessee-students-say-they-were-kicked-out-frat-party-being-n1073031,False
+2,882797989,20191028,"Folly Beach, South Carolina, United States",SOUTH CAROLINA,,https://www.southstrandnews.com/community/jay-s-rocks-rolls-into-second-year/article_700526f2-f978-11e9-9555-07de7f54a2ad.html,False
+3,882665432,20191028,"Delaware County, Pennsylvania, United States",UNITED STATES,ATTORNEY,http://www.mainlinemedianews.com/mainlinesuburbanlife/candidates-for-delco-d-a-square-off-at-cabrini/article_8e4e8cc2-f8f4-11e9-a436-7b2903aca7eb.html,False
+4,882872309,20191028,"El Paso, Texas, United States",AUTHORITIES,UNITED STATES,https://kvia.com/news/crime/2019/10/28/el-paso-man-found-guilty-in-brutal-dismemberment-slaying/,False
+5,882660718,20191028,"Delhi, Delhi, India",,GOVERNMENT,https://www.telegraphindia.com/opinion/sexual-assault-there-is-no-substitute-for-justice/cid/1714712,False
+6,882749363,20191028,,PRIEST,,https://indianexpress.com/article/north-east-india/tripura/tripurasundari-temple-priests-believe-diwali-puja-without-slaughter-is-incomplete-6091608/,False
+7,882821489,20191028,Ukraine,UKRAINE,BENGHAZI,https://www.nbclosangeles.com/news/politics/Trump-Impeachment-Inquiry-What-Happened-This-Week-562269451.html,True
+8,882703883,20191028,"Kabianga, Rift Valley, Kenya",,KENYA,https://allafrica.com/stories/201910280058.html,False
+9,882859115,20191028,,,EL SALVADOR,https://dailycaller.com/2019/10/28/trump-extends-tps-for-salvadorans-in-us/,False
+10,882727363,20191028,"Nagaland, Nagaland, India",NAGALAND,DELHI,https://www.business-standard.com/article/pti-stories/nnpgs-ask-legislators-to-clear-stand-on-naga-peace-process-119102800365_1.html,False
+11,882755214,20191028,"Bald Mountain, New Zealand (general), New Zealand",NEW ZEALAND,,https://www.newyorker.com/magazine/2019/11/04/the-women-who-helped-build-hollywood,False
+12,882724820,20191028,"Milngavie, East Dunbartonshire, United Kingdom",DOCTOR,,https://www.scotsman.com/health/young-scottish-mother-diagnosed-with-mnd-was-told-symtpoms-were-pregnancy-hormones-1-5034070,False
+13,882801779,20191028,"Cape Town, Western Cape, South Africa",,SOUTH AFRICAN,https://www.zumi.co.ke/entertainment/celebrity-news/burna-boy-headlining-south-african-show-despite-pledge-to-never-return/,False
+14,882809091,20191028,,,UNITED STATES,https://www.lockhaven.com/news/local-news/2019/10/company-wants-to-modify-dam-at-little-pine-into-hydroelectric-facility/,False
+15,882826727,20191028,Uganda,COMPANY,AFRICA,https://www2.trustnet.com/Investments/Article.aspx?id=201910281619483788R,False
+16,882843965,20191028,,POLICE,,https://www.goerie.com/news/20191028/erie-police-probe-fatal-dog-beating,True
+17,882789741,20191028,"Arizona, United States",,POLICE,https://www.news5cleveland.com/news/local-news/cleveland-metro/west-african-woman-tells-cleveland-police-shes-an-escaped-human-trafficking-victim,False
+18,882652673,20191028,,,HOSPITAL,https://www.cbc.ca/news/canada/manitoba/three-adults-infant-shot-winnipeg-1.5337495,False
+19,882773065,20191028,"Jammu, Jammu and Kashmir, India",,JAMMU AND KASHMIR,https://www.financialexpress.com/india-news/eu-delegation-meets-modi-zero-tolerance-terrorism-european-union-panel-kashmir-visit-after-article-370/1747814/,False
+20,882715099,20191028,Norway,UNITED KINGDOM,,https://www.express.co.uk/travel/articles/1196501/pound-euro-exchange-rate-gbp-brexit-news-latest-holidays-travel-money,False
+21,882678008,20191028,China,PARIS,AMERICAN,https://www.ibtimes.com/louis-vuitton-looks-acquire-tiffany-co-145-billion-2854883,False
+22,882873076,20191028,Iraq,THE WHITE HOUSE,UNITED STATES,https://www.rollingstone.com/politics/political-commentary/baghdadi-trump-washington-post-headline-fox-news-904945/,False
+23,882684607,20191028,"Zero Point, Punjab, Pakistan",PAKISTAN,ISLAMABAD,https://www.geo.tv/latest/253112-azadi-march-will-fazl-live-up-to-agreement-or-follow-in-ptis-footsteps,False
+24,882664604,20191028,"Georgia, United States",,UNITED STATES,https://big955chicago.iheart.com/content/2019-10-27-photos-may-be-evidence-of-ghosts-inside-haunted-house/,False
+25,882821136,20191028,Syria,MILITARY,UKRAINE,https://peacenow.org/entry.php?id=32375,True
+26,882695885,20191028,"Mumbai, Maharashtra, India",MUMBAI,,https://www.businesstoday.in/sectors/aviation/gvk-group-raises-rs-7600-crore-to-reduce-debt-buys-stake-in-mumbai-airport-mial/story/387045.html,True
+27,882810327,20191028,"Washington, District of Columbia, United States",INTELLIGENCE,TURKEY,https://www.theepochtimes.com/putin-spokesman-praises-trump-for-al-baghdadi-raid-but-russian-officials-claim-theres-no-proof_3129716.html,False
+28,882926082,20191028,,GOVERNOR,WORKER,https://www.standardmedia.co.ke/business/article/2001347214/county-sacks-20-workers,True
+29,882764514,20191028,"Elkhart, Illinois, United States",ENGINEER,,https://www.elkharttruth.com/hometown/elkhart/rocket-builder-and-author-shows-the-way-for-girls-and/article_570df0b4-3bfb-5432-95ab-bf525ef3051a.html,False
+30,882667437,20191028,Iraq,UNITED STATES,,https://www.state.gov/protests-in-iraq/,True
+31,882681679,20191028,Ukraine,PRESIDENTIAL CANDIDATE,,https://www.wral.com/how-killing-a-terrorist-affects-the-impeachment-inquiry-into-trump/18727381/,False
+32,882824680,20191028,Mexico,CONGRESS,,https://www.pressherald.com/2019/10/28/douglas-rooks-our-endangered-government-of-laws/,False
+33,882693178,20191028,,,JAIN,https://www.dnaindia.com/india/report-maharashtra-shiv-sena-bjp-power-tussle-continues-both-parties-to-meet-governor-separately-2799019,False
+34,882838685,20191028,"Brisbane, Queensland, Australia",BRISBANE,POLICE,https://www.gladstoneobserver.com.au/news/premier-deputy-stay-put-in-the-city/3865231/,False
+35,882835548,20191028,"Mansfield, Ohio, United States",,UNITED STATES,https://www.mansfieldnewsjournal.com/story/news/2019/10/28/warmchoice-program-helps-mansfield-residents-lower-utility-bills/2483936001/,False
+36,882802921,20191028,Syria,SPECIAL FORCES,SYRIA,https://www.democracynow.org/2019/10/28/headlines,False
+37,882858043,20191028,"Kampala, Kampala, Uganda",UGANDA,YOWERI MUSEVENI,http://www.mcall.com/sns-bc-af--uganda-gay-rights-20191024-story.html,False
+38,882874864,20191028,Israel,ISRAEL,ISRAEL,https://imemc.org/article/israeli-settlers-attack-civilian-homes-in-central-west-bank/,False
+39,882686097,20191028,"Gandhinagar, Gujarat, India",HINDU,,https://www.news18.com/photogallery/india/spectacular-pictures-of-diwali-celebrations-across-india-2364363-1.html,False
+40,882806459,20191028,,COMMUNITY,,http://norfolkdailynews.com/news/cops-seminar-showcases-law-enforcement-careers/article_3b4ee04e-f98f-11e9-9643-df50cb7249a0.html,False
+41,882722258,20191028,"Riyadh, Ar Riya?, Saudi Arabia",UNITED KINGDOM,JORDAN,https://www.channelstv.com/2019/10/28/buhari-to-embark-on-private-visit-to-london-after-saudi-arabia-trip/,False
+42,882663790,20191028,"Benedict College, South Carolina, United States",UNITED STATES,PRESIDENT,https://www.live5news.com/2019/10/28/democratic-presidential-candidates-wrap-up-forum-hosted-by-benedict-college/,False
+43,882764180,20191028,"Frigate Bay, Saint George Basseterre, Saint Kitts And Nevis",,MINIST OF HEALTH,https://zizonline.com/pink-walk-2019-st-kitts-nevis-society-congratulated-by-prime-minister-harris/,False
+44,882793291,20191028,"Algiers, Alger, Algeria",ALGIERS,NATIONAL PRESS,http://www.aps.dz/en/algeria/31534-national-press-keen-to-support-the-country-s-development,False
+45,882703912,20191028,"Nkhoma, Kasungu, Malawi",UNIVERSITY,,https://www.nyasatimes.com/catholic-university-of-malawi-students-plead-support-for-the-needy/,False
+46,882832302,20191028,Indonesia,INDONESIA,INDONESIA,https://news.kuwaittimes.net/website/se-asia-expects-long-fight-against-is/,False
+47,882706183,20191028,Malta,HOME AFFAIRS MINIST,POLICE,https://timesofmalta.com/articles/view/33-months-and-counting-jimmy-magro-case-still-pending.745077,True
+48,882715008,20191028,Bolivia,RUNNER,ARGENTINA,http://www.jamaicaobserver.com/international/fernandez-wins-argentine-election-in-first-round-official_178282?profile=1470,False
+49,882829824,20191028,Czech Republic,CZECH REPUBLIC,JEWISH,https://ejpress.org/czech-parliament-chamber-passes-anti-bds-resolution/,False
+50,882652658,20191028,"Normandy, Surrey, United Kingdom",,BRITISH,https://www.edp24.co.uk/news/poppy-appeal-2019-launched-in-norfolk-1-6344093,False
+51,882868698,20191028,"Sydney, New South Wales, Australia",CANADA,,https://www.thewesternstar.com/news/canada/alder-point-man-pleads-not-guilty-to-sex-offences-369126/,False
+52,882722282,20191028,"Lakshadweep, Lakshadweep, India",PRIME MINISTER,,https://udaipurkiran.com/mann-ki-baat-pm-modi-urges-countrymen-to-celebrate-nari-shakti/,False
+53,882781751,20191028,Afghanistan,INTERNATIONAL MONETARY FUND,AFRICA,http://www.dubaicityguide.com/site/news/news-details/Local-News/72409/imf-regional-economic-outlook-report-calls-for-reforms-to-promote-job-rich-growth-and-build-resilience,False
+54,882856035,20191028,"Chicago, Illinois, United States",JORDAN,,https://www.kicksonfire.com/air-jordan-1-retro-high-og-wmns-unc-to-chicago-detailed-images/,False
+55,882685754,20191028,"Kyeema, South Australia, Australia",BUSINESS,MINISTRY,https://winetitles.com.au/four-winds-brand-adds-kyeema-estate-to-its-roster/,False
+56,882849856,20191028,"Washington, District of Columbia, United States",CONNECTICUT,ATTORNEY,https://www.ctinsider.com/politics/ctpost/article/Russia-investigation-draws-CT-U-S-Attorney-to-14568721.php,True
+57,882842141,20191028,United States,WRITER,SCHOOL,https://www.cjr.org/language_corner/raising-rearing-kids.php,False
+58,882743791,20191028,"Philippine, Benguet, Philippines",MANILA,POLICE,https://newsinfo.inquirer.net/1182756/duterte-now-suspecting-cops-killed-misamis-occ-mayor,True
+59,882688748,20191028,"Texas, United States",TEXAS,UNITED STATES,https://www.hindustantimes.com/world-news/trump-greets-indians-on-diwali-says-festival-binds-people-together/story-eU4kNX3WB7Y8BoBHYxA6kN.html,False
+60,882666992,20191028,"Bundaberg, Queensland, Australia",MEDIA,,https://www.dailymail.co.uk/news/article-7620245/Shocked-family-dead-puppy-crab-pots-near-Bundabergs-Strathdees-Boat-Ramp.html,False
+61,882821393,20191028,Syria,SYRIA,TURKEY,https://www.voanews.com/usa/trump-calls-baghdadi-sick-depraved-man,False
+62,882781364,20191028,"Abu Dhabi, Abu Z¸aby, United Arab Emirates",CRIMINAL,AUTHORITIES,https://www.khaleejtimes.com/uae/abu-dhabi/police-in-uae-reveal-most-common-drug-smuggling-methods,False
+63,882698934,20191028,"Pyongyang, P'yongyang-si, North Korea",RED CROSS,NORTH KOREA,http://www.koreatimes.co.kr/www/opinion/2019/10/396_277789.html,True
+64,882819688,20191028,Ukraine,,BENGHAZI,https://www.nbcsandiego.com/news/politics/Pompeo-Continues-Europe-Tour-Impeachment-Inquiry-562257321.html,True
+65,882789840,20191028,"Simiyu, Tanzania (general), Tanzania",,TANZANIA,https://www.ippmedia.com/en/node/70486,False
+66,882754780,20191028,Iraq,IRAQI,EXXON,https://www.washingtonpost.com/news/powerpost/paloma/the-energy-202/2019/10/28/the-energy-202-trump-s-desire-to-take-syrian-oil-presents-a-barrelful-of-problems/5db5df8088e0fa5ad928dafb/,False
+67,882654867,20191028,,POLICE,,https://www.dailymail.co.uk/wires/ap/article-7609529/amp/Nebraska-deputy-accused-fraud-costing-victims-nearly-11M.html,True
+68,882832336,20191028,"Baghdad, Baghdad, Iraq",IRAQ,SHIA,https://www.presstv.com/Detail/2019/10/28/609796/Iraq-protest-curfew-Baghdad-students-education-minister-Adel-AbdulMahdi,True
+69,882647734,20191028,"Santiago, Regióetropolitana, Chile",MINIST,,https://www.hppr.org/post/chiles-president-promises-reshuffle-cabinet-after-massive-protests-santiago,False
+70,882826734,20191028,Hong Kong,BUSINESS,CHRISTIAN,https://www.reuters.com/article/us-tiffany-m-a-lvmh/lvmh-woos-tiffany-to-tap-fast-growing-jewellery-market-idUSKBN1X70MZ,False
+71,882748749,20191028,"Khulna, Khulna, Bangladesh",CABINET,BANGLADESH,http://www.dhakatribune.com/bangladesh/government-affairs/2019/10/28/gazipur-city-set-to-get-development-authority,False
+72,882650742,20191028,"Texas, United States",UNITED STATES,,https://www.elpasotimes.com/story/news/2019/10/24/texas-gun-laws-what-happens-when-good-guys-have-guns/2278198001/,False
+73,882855568,20191028,"Pennsylvania, United States",PRISON,,https://www.pennlive.com/news/2019/10/pa-corrections-secretary-draws-more-fire-for-remarks-about-planned-prison-closing-and-he-says-he-deserves-it.html,False
+74,882875574,20191028,"Ohio, United States",UNITED STATES,PARLIAMENT,https://www.theglobeandmail.com/opinion/article-the-targeting-of-other-women-shows-meghan-murphy-is-no-feminist/,True
+75,882666542,20191028,,UNITED KINGDOM,,https://www.ballymoneytimes.co.uk/news/ballymoney-man-fears-losing-his-home-following-dog-barking-claims-1-1838135,False
+76,882654177,20191028,"Houghton College, New York, United States",UNITED STATES,PRESIDENT,https://quincy.wickedlocal.com/news/20191027/newsmaker-rev-jack-connell-brings-his-brand-of-ministry-to-eastern-nazarene-college,False
+77,882826729,20191028,Canada,PRODUCER,CANADA,https://www.globalmeatnews.com/Article/2019/10/28/Canadian-pork-industry-assesses-ASF-preparations,True
+78,882720556,20191028,"Idlib, Idlib, Syria",KURD,THE US,https://www.republicworld.com/world-news/global-event-news/baghdadis-death-a-milestone-but-fight-not-yet-over.html,False
+79,882844266,20191028,United Kingdom,SCOTLAND,SCOTTISH,https://www.snp.org/serial-loser-boris-johnson-and-his-litany-of-defeats/,False
+80,882736884,20191028,,,ISLAM,https://www.timesnownews.com/entertainment/news/bollywood-news/article/shah-rukh-khan-gets-trolled-for-wearing-a-tilak-on-diwali-shabana-azmi-hits-back-with-a-befitting-reply/508754,False
+81,882787575,20191028,"Barwon, Victoria, Australia",,GOVERNMENT,https://www.abc.net.au/news/2019-10-29/government-water-policies-making-drought-worse-says-researcher/11647884,False
+82,882713418,20191028,"Lahore, Punjab, Pakistan",LAHORE,,https://www.outlookindia.com/website/story/opinion-diwali-or-jashan-e-chiraghan-during-mughal-reign/341245,False
+83,882766925,20191028,"Vancouver, British Columbia, Canada",,BURKINA FASO,https://www.pr-inside.com/sarama-resources-receives-final-consideraton-for-s-r4777100.htm,False
+84,882809803,20191028,"Paris, France (general), France",HOSPITAL,,https://www.aninews.in/news/world/europe/shooting-outside-mosque-in-southern-france-injures-2-suspect-arrested20191028221947/,False
+85,882749167,20191028,"Gaza, Israel (general), Israel",MEDIA,ISRAEL,https://imemc.org/article/mada-denounces-recent-wave-of-violations-against-palestinian-journalists/,False
+86,882875575,20191028,"Ohio, United States",UNITED STATES,PARLIAMENT,https://www.theglobeandmail.com/opinion/article-the-targeting-of-other-women-shows-meghan-murphy-is-no-feminist/,True
+87,882806239,20191028,"Toronto, Ontario, Canada",CANADA,AIRLINE,https://simpleflying.com/canada-jetlines-whats-happening/,False
+88,882824689,20191028,United States,,PARTY MEMBER,http://www.samoanews.com/local-news/coleman-ike-dinner-draws-full-house,False
+89,882706650,20191028,"Jeddah, Makkah, Saudi Arabia",SAUDI ARABIA,TOURIST,http://www.tradearabia.com/news/TTN_360248.html,False
+90,882730662,20191028,"Illinois, United States",ILLINOIS,MAYOR,http://www.chicagotribune.com/news/ct-cb-daywatch-newsletter-october28-20191028-bz5owmhmwjawjaiaj4ymcn6fbu-story.html,False
+91,882732822,20191028,"Salisbury, Mashonaland East, Zimbabwe",TESCO,,https://www.swindonadvertiser.co.uk/news/17997470.tesco-stabbing-victim-broke-superdrug-pharmacy-court-hears/,False
+92,882665003,20191028,Syria,JAPAN,CONGRESS,https://www.japantimes.co.jp/?post_type=news&p=2274269,False
+93,882781720,20191028,"Ohio, United States",GREECE,SCHOLAR,https://www.thejournal.ie/readme/coffin-stuff-changed-world-history-4861270-Oct2019/,False
+94,882874968,20191028,"Vancouver, British Columbia, Canada",PARLIAMENT,SCOTLAND,https://www.theglobeandmail.com/opinion/article-the-targeting-of-other-women-shows-meghan-murphy-is-no-feminist/,True
+95,882800150,20191028,"Kings County, New York, United States",UNITED STATES,POLICE OFFICER,https://www.policeone.com:443/use-of-force/articles/critically-injured-ny-leo-wakes-from-coma-rqcZrQW5GBimAyiH/,False
+96,882781863,20191028,"Okuni, Hiroshima, Japan",SOUTH KOREA,,https://www.upi.com/Top_News/World-News/2019/10/28/South-Korea-group-calls-for-talks-on-Mount-Kumgang-Kaesong/4661572273080/,False
+97,882657965,20191028,"Tripoli, Tarabulus, Libya",MINIST,LIBYA,https://www.alaraby.co.uk/english/news/2019/10/28/germany-calls-for-end-to-foreign-interference-in-libya,False
+98,882781993,20191028,,NIGERIA,AFRICA,https://www.dailytrust.com.ng/nigeria-imports-1-1m-tones-of-onion-annually.html,False
+99,882744030,20191028,"Cleveland, Ohio, United States",CLEVELAND,,https://fox8.com/2019/10/28/22-year-old-conneaut-soldier-killed-in-training-exercise-will-be-laid-to-rest-this-week/,False
+100,882779304,20191028,"Kartarpur, Punjab, India",,PAKISTAN,https://www.business-standard.com/article/current-affairs/pak-to-offer-tourist-visas-to-non-indian-sikh-pilgrims-for-kartarpur-shrine-119102800580_1.html,False
+101,882826466,20191028,"Budaiya, Al Muhafazah ash Shamaliyah, Bahrain",,BAHRAIN,http://www.gdnonline.com/Details/635346,False
+102,882785884,20191028,"Adelaide, South Australia, Australia",PILGRIM,,https://www.wsls.com/news/international/sos-message-in-sand-saves-woman-after-being-lost-for-3-days,False
+103,882681790,20191028,"Missionary Baptist Church, Texas, United States",ANTIOCH,UNITED STATES,https://www.12newsnow.com/article/news/community/antioch-missionary-baptist-church-celebrates-125th-anniversary/502-0ebc0253-4965-4227-8728-746091febdbd,False
+104,882688076,20191028,"New Delhi, Delhi, India",MAHARASHTRA,HINDU,http://www.canindia.com/bharat-ratna-savarkar-opinions-split-wide-open/,False
+105,882860332,20191028,"Kyiv, Kyyiv, Misto, Ukraine",UKRAINE,HUNTER,https://www.kyivpost.com/ukraine-politics/why-is-rudy-giuliani-close-with-this-hasidic-ukrainian-rabbi.html,True
+106,882698547,20191028,Mexico,MINORITIES,,http://newswithviews.com/when-minorities-become-majorities-the-tyranny-of-minorities/,False
+107,882649735,20191028,"Minnesota, United States",,MINNESOTA,http://www.chicagotribune.com/sns-bc-us--police-shooting-in-home-cooling-off-period-20191018-story.html,False
+108,882742738,20191028,"Guacharacas, Casanare, Colombia",COLOMBIA,SUPREME COURT,https://colombiareports.com/why-uribe-might-be-worried-and-distressed-over-colombias-trial-of-the-century/,True
+109,882784740,20191028,"Vietnam, Republic Of",,JAPAN,https://vietnamnet.vn/en/business/many-vietnamese-fashion-brands-sinking-into-oblivion-582775.html,False
+110,882851431,20191028,"Idlib, Idlib, Syria",RESIDENTS,,https://www.timesofisrael.com/after-baghdadi-raid-syria-villagers-tell-of-quiet-secretive-neighbor/,False
+111,882757529,20191028,"Alabama, United States",CHRISTIAN,BIRMINGHAM,http://www.nydailynews.com/news/national/ny-kamille-cupcake-mckinney-funeral-thousand-mourners-20191028-viknom3b5rgs5fjpii4bqa2jdq-story.html,False
+112,882684307,20191028,"Riyadh, Ar Riya?, Saudi Arabia",PRIME MINISTER,,https://www.plenglish.com/index.php?o=rn&id=48366&SEO=indias-prime-minister-will-visit-saudi-arabia,False
+113,882801632,20191028,"Ohio, United States",,INSPECTOR GENERAL,https://www.kpvi.com/news/national_news/legislation-would-allow-ohio-counties-to-hire-inspectors-general-to/article_9c6d2126-a129-54d3-a0b0-0ca7aaa970d7.html,True
+114,882802320,20191028,"Cumbria, Cumbria, United Kingdom",,,https://www.cumbriacrack.com/2019/10/28/black-history-month-conference-celebrating-bame-heritage-in-cumbria/,False
+115,882830123,20191028,"Rhode Island, United States",FIREFIGHTER,RHODE ISLAND,https://www.ricentral.com/coventry_courier/news/local_news/coventry-pd-holds-various-community-outreach-initiatives/article_1aaff672-f9b0-11e9-b3b4-9b99d847c09a.html,False
+116,882856423,20191028,Ukraine,UKRAINE,HUNTER,http://www.kake.com/story/41241042/trump-cried-foul-about-hunter-biden-but-what-about-his-own-children,False
+117,882839890,20191028,,,HUNTER,https://www.jta.org/2019/10/28/global/why-is-rudy-giuliani-close-with-this-hasidic-ukrainian-rabbi,True
+118,882700147,20191028,Ukraine,CHINA,UKRAINE,https://nz.news.yahoo.com/trump-conviction-more-likely-appears-130024849.html,False
+119,882798911,20191028,United States,VOTER,,http://freerepublic.com/focus/f-bloggers/3789630/posts,True
+120,882720323,20191028,"Missouri, United States",MISSOURI,,https://www.news-leader.com/story/news/local/ozarks/2019/10/28/better-business-bureau-missouri-internet-provider-intellilink-freistatt/4086807002/,False
+121,882799047,20191028,"Sharm El-Sheikh, Janub Sina', Egypt",,,https://www.theverge.com/2019/10/28/20936197/5g-world-radiocommunication-conference-weather-forecasting-egypt,True
+122,882849855,20191028,"Washington, District of Columbia, United States",CONNECTICUT,ATTORNEY,https://www.ctinsider.com/politics/ctpost/article/Russia-investigation-draws-CT-U-S-Attorney-to-14568721.php,True
+123,882803520,20191028,"California, United States",UNITED STATES,PUBLICATION,https://www.hometownstation.com/santa-clarita-news/politics/election-update-assemblywoman-christy-smith-announces-run-for-congress-298559,True
+124,882681351,20191028,"Budapest, Budapest, Hungary",HUNGARY,KINGDOM,http://www.koreatimes.co.kr/www/nation/2019/10/176_277783.html,False
+125,882765737,20191028,"Fall Creek, New York, United States",NEW YORK,,https://991thewhale.com/missing-cornell-student-found-dead-in-fall-creek/,False
+126,882687727,20191028,"Paducah, Kentucky, United States",DEPUTIES,,http://www.westkentuckystar.com/News/Local-Regional/McCracken-County/Bardwell-Man-Arrested-on-Drug-Fleeing-Charges.aspx,False
+127,882819080,20191028,,BENIN CITY,NIGERIA,https://www.vaticannews.va/en/africa/news/2019-10/archbishop-dal-toso-closes-missionary-congress-of-nigeria.html,False
+128,882874577,20191028,Czech Republic,CZECH REPUBLIC,,https://www.thejakartapost.com/adv/2019/10/29/czech-republic-vows-to-boost-ties-with-rising-ri.html,False
+129,882752496,20191028,"Chelmsford, Essex, United Kingdom",MIGRANT,,https://www.itv.com/news/anglia/2019-10-28/lorry-driver-appears-in-court-charged-with-manslaughter-of-39-migrants/,False
+130,882676579,20191028,"Muhajir, Al Ladhiqiyah, Syria",SYRIAN,HASSAN,https://indianexpress.com/article/world/abu-bakr-al-baghdadis-death-will-damage-isis-but-not-destroy-it-6090758/,False
+131,882653721,20191028,"White House, District of Columbia, United States",,,https://www.rnz.co.nz/news/world/401949/for-trump-baghdadi-death-a-signature-moment-but-troubles-remain,False
+132,882680796,20191028,,,MILITARY,http://rock937online.com/air-force-x-37b-spaceplane-successfully-returns-to-earth-after-780-day-mission/,False
+133,882748564,20191028,Germany,ETHIOPIA,GERMANY,https://www.prisonplanet.com/un-flies-first-eu-funded-planeloads-of-somalis-syrians-to-germany-romania.html,False
+134,882858057,20191028,"Brevard High School, North Carolina, United States",UNITED STATES,,https://www.transylvaniatimes.com/story/2019/10/28/news/board-grads-will-need-portfolio/42638.html,False
+135,882662826,20191028,"Nagaland, Nagaland, India",,REPRESENTATIVES,http://morungexpress.com/nagaland-political-parties-must-clear-positions-wc-nnpgs,False
+136,882778402,20191028,,DETECTIVE,CRIMINAL,http://jamaica-star.com/article/news/20191028/news-go,True
+137,882836719,20191028,Norway,NORWEGIAN,RUSSIAN,https://flightaware.com/squawks/view/1/today/popular/76255/Norwegian_to_lease_40_Sukhoi_SSJ100_jets,False
+138,882875419,20191028,"Tennessee, United States",UNITED STATES,,https://insurancenewsnet.com/oarticle/daywatch-trump-visits-chicago-today-lightfoot-makes-a-deal-but-not-with-ctu-and-an-exclusive-look-at-obama-center-version-3-0,False
+139,882686538,20191028,"Idlib, Idlib, Syria",SYRIA,UNITED STATES,https://www.ibtimes.com/trump-confirms-death-islamic-state-group-chief-baghdadi-us-raid-2854581,True
+140,882855440,20191028,"Melbourne, Victoria, Australia",MELBOURNE,,https://www.australasianlawyer.com.au/news/bizarre-conspiracy-theory-legal-profession-leaders-slam-baseless-attack-on-judiciary-267655.aspx,False
+141,882792940,20191028,"Okuni, Hiroshima, Japan",,JAPANESE,https://www.japantimes.co.jp/?post_type=news&p=2275970,False
+142,882732891,20191028,United States,NORTH AMERICA,,http://freerepublic.com/focus/f-bloggers/3789546/posts,True
+143,882654563,20191028,"Montana, United States",,SHARED INTEREST,https://missoulian.com/news/local/monday-s-montanans-brooke-tanner-and-jesse-varnado-rehabilitate-injured/article_10efa8f9-b109-5dfb-8ed7-a824c930240d.html,False
+144,882743237,20191028,China,DOCTOR,,https://www.bostonglobe.com/metro/2019/10/28/seniors-clamor-for-high-dose-flu-shot-but-not-always-easy-find/CAS3oVDYsU58FAXucsYBfN/story.html,False
+145,882785221,20191028,"New Delhi, Delhi, India",LONDON,BRITAIN,https://www.orissapost.com/prince-charles-to-visit-india-in-november-to-celebrate-india-uk-ties/,False
+146,882846866,20191028,"Capitol Hill, District of Columbia, United States",EMPLOYEE,,https://arstechnica.com/tech-policy/2019/10/facebooks-new-political-ad-policy-already-showing-cracks-loopholes/,False
+147,882952473,20191028,,,JOURNALIST,https://allafrica.com/stories/201910290106.html,False
+148,882742809,20191028,,MAFIA,SUPREME COURT,https://colombiareports.com/why-uribe-might-be-worried-and-distressed-over-colombias-trial-of-the-century/,True
+149,882873094,20191028,"Iowa, United States",IOWA,,https://wqad.com/2019/10/28/eastern-iowa-mental-health-services-at-risk-due-to-3-million-budget-deficit/,False
+150,882754724,20191028,"Ladakh, Jammu and Kashmir, India",EUROPEAN PARLIAMENT,PRIME MINISTER,https://www.indiatoday.in/india/story/narendra-modi-european-parliament-team-terror-1613439-2019-10-28,False
+151,882807635,20191028,,UNITED STATES,EUROPEAN,https://www.argusleader.com/story/news/business-journal/2019/10/28/sioux-falls-artist-selected-international-innovators-forum-zach-deboer/4083324002/,False
+152,882797617,20191028,"Riyad, Ar Riya?, Saudi Arabia",RELIANCE INDUSTRIES,,https://www.breakingtravelnews.com/news/article/partners-revealed-as-future-investment-initiative-begins-in-riyadh/,False
+153,882686658,20191028,United States,UNITED STATES,AUTOMAKER,http://www.ejinsight.com/20191028-uaw-turns-to-ford-after-gm-workers-approve-new-contract/,False
+154,882687390,20191028,"Wright County, Minnesota, United States",,BUSINESS,http://www.startribune.com/central-minnesota-strives-to-stay-dementia-friendly/563963142/,False
+155,882800462,20191028,"Springfield, Victoria, Australia",ABORIGINAL AUSTRALIANS,ILLINOIS,https://thesouthern.com/news/local/state-and-regional/illinois-state-museum-returns-items-to-aboriginal-australians/article_6ba827ed-f9c7-5b2d-91f3-69270638940b.html,False
+156,882818636,20191028,"Dhangar, Madhya Pradesh, India",RULING PARTY,COMMUNITY,https://www.epw.in/journal/2019/43/editorials/mandate-strong-opposition.html,False
+157,882874967,20191028,"Vancouver, British Columbia, Canada",PARLIAMENT,UNITED KINGDOM,https://www.theglobeandmail.com/opinion/article-the-targeting-of-other-women-shows-meghan-murphy-is-no-feminist/,True
+158,882657726,20191028,"Coogee, Western Australia, Australia",CHRISTIAN,AUSTRALIA,https://www.warwickdailynews.com.au/news/victim-says-pms-friendship-rapists-son-monstrous/3864635/,False
+159,882711447,20191028,"Nevada, United States",AMERICAN CIVIL LIBERTIES UNION,,http://www.thedailyreporteronline.com/news/2019/10/28/most-states-not-giving-drivers-license-data-to-washington/,False
+160,882869345,20191028,"Kentucky, United States",POLITICIAN,UNITED STATES,https://www.aol.com/article/news/2019/10/28/transgender-child-case-texas-anne-georgulas-jeffrey-younger-gender-identity/23848292/,False
+161,882671973,20191028,"Gangwon, Kangwon-do, South Korea",,SOUTH KOREA,http://www.koreaherald.com/view.php?ud=20191028000477,False
+162,882757764,20191028,,EUROPE,SCIENTIST,https://www.3quarksdaily.com/3quarksdaily/2019/10/making-far-out-the-norm-or-how-to-nurture-loonshots.html,False
+163,882821678,20191028,"Wisconsin, United States",UNITED STATES,FELON,https://www.apnews.com/10b6b7a26d1845bfa94ab5650a0c3a01,False
+164,882806633,20191028,,CARDIFF,,https://www.southwalesargus.co.uk/news/17998276.cwmbran-man-accused-brutal-attack-girlfriend/,False
+165,882757492,20191028,Switzerland,CHINA,,http://www.globaltimes.cn/content/1168212.shtml,False
+166,882764948,20191028,Russia,IRAQ,TURKEY,https://www.coloradostar.com/news/262889246/us-department-of-homeland-security-at-heightened-state-of-vigilance,False
+167,882706103,20191028,"Dublin, Dublin, Ireland",LONDON,IRELAND,https://www.neweurope.eu/article/sweden-authorises-the-use-of-facial-recognition-technology-by-the-police/,False
+168,882656030,20191028,"Nevada, United States",UNITED STATES,AUTHORITIES,https://www.adn.com/nation-world/2019/10/27/winds-top-a-stunning-93-mph-in-kincade-fire-zone-causing-havoc-across-sonoma-county/,False
+169,882755788,20191028,"La Crescent, Minnesota, United States",HMONG,LAOS,https://wxow.com/news/2019/10/27/everyone-has-a-story-chong-cher-lee/,False
+170,882668107,20191028,,,,https://www.foxnews.com/science/wildfires-seeds-pine-cones-collected-reforest-hillsides,False
+171,882682963,20191028,Russia,,,http://www.kake.com/story/41237647/how-killing-a-terrorist-affectsthe-impeachment-inquiry-into-trump,False
+172,882761666,20191028,United States,,AL QAEDA IN IRAQ,https://www.christianheadlines.com/columnists/denison-forum/the-death-of-abu-bakr-al-baghdadi-4-steps-to-defeating-isis.html,False
+173,882706562,20191028,"Islampur, Bangladesh (general), Bangladesh",PAKISTAN,MUSLIM,http://idrw.org/indias-pakistan-cries-for-a-name-change/,False
+174,882758997,20191028,Syria,AMERICAN,UNITED STATES,https://www.fosters.com/news/20191027/mother-of-james-foley-grateful-after-isis-leaders-death,False
+175,882746443,20191028,"Wisconsin, United States",WEBSITE,,http://www.wisconsinagconnection.com/story-national.php?Id=2092&yr=2019,False
+176,882827723,20191028,"Geneva, Genè, Switzerland",THE OPPOSITION,REUTERS,http://news.trust.org/item/20191028154540-v8mxp,False
+177,882703768,20191028,"Samana Cay, Crooked Island and Long Cay, Bahamas, The",BANK,ITALY,https://ewnews.com/bahamas-development-bank-taking-more-proactive-approach-to-address-non-performing-loans,False
+178,882767515,20191028,United States,PRESIDENT,,https://thehill.com/regulation/labor/467688-government-union-president-accused-of-sexual-harassment,False
+179,882778543,20191028,"Los Angeles, California, United States",SCHOOL,,https://www.educationdive.com/news/chicago-teachers-strike-same-and-different-from-las/565921/,False
+180,882706512,20191028,"Kogi, Nigeria (general), Nigeria",ABUJA,AFRICA,https://ynaija.com/profile-there-is-more-to-allen-onyema-than-air-peace/,False
+181,882736843,20191028,Norway,,DOCTOR,https://www.winnipegfreepress.com/opinion/analysis/were-all-in-denial-about-climate-change-563963532.html,False
+182,882740769,20191028,"Detroit, Michigan, United States",IMAM,UNITED STATES,https://www.freep.com/story/news/local/michigan/2019/10/28/ten-years-fbi-imam-luqman-abdullah-death-dearborn/2451750001/,False
+183,882776321,20191028,"Ballinamore, Leitrim, Ireland",CRIMINAL,,https://www.bbc.com/news/world-europe-50209923,True
+184,882849991,20191028,"New York, United States",UNITED STATES,UNITED STATES,https://nypost.com/2019/10/28/cop-in-alleged-murder-for-hire-plot-will-get-to-call-son-on-his-birthday/,False
+185,882874964,20191028,"Vancouver, British Columbia, Canada",PARLIAMENT,CANADA,https://www.theglobeandmail.com/opinion/article-the-targeting-of-other-women-shows-meghan-murphy-is-no-feminist/,True
+186,882699952,20191028,"Jakarta, Jakarta Raya, Indonesia",,JAPAN,https://en.antaranews.com/news/135436/toyota-indonesia-set-to-produce-battery-electric-vehicles-in-karawang,False
+187,882743373,20191028,"Antioquia, Cundinamarca, Colombia",SUPREME COURT,,https://colombiareports.com/why-uribe-might-be-worried-and-distressed-over-colombias-trial-of-the-century/,True
+188,882820440,20191028,"Cairo, Al Qahirah, Egypt",ETHIOPIA,EGYPT,https://www.apnews.com/0930ed34c1754fb295af5cd89daab2aa,False
+189,882715712,20191028,"Anbar, Sistan va Baluchestan, Iran",MERCENARIES,IRAQ,https://americanfreepress.net/crowning-barack-obama-king-of-the-neocons-the-war-president/,False
+190,882647081,20191028,,,SETTLEMENT,https://lfpress.com/news/local-news/believer-in-teams-and-trust-among-nominees-for-pillar-leadership-award,False
+191,882650538,20191028,"Idlib, Idlib, Syria",,PRESIDENT,https://www.oann.com/white-house-confirms-isis-leader-abu-bakr-al-baghdadi-is-dead/,False
+192,882655984,20191028,"Nebraska, United States",UNITED STATES,POLICE,https://www.dailymail.co.uk/wires/ap/article-7609529/amp/Nebraska-deputy-accused-fraud-costing-victims-nearly-11M.html,True
+193,882849567,20191028,"White House, District of Columbia, United States",INTELLIGENCE,SWITZERLAND,https://www.newbernsj.com/zz/news/20191028/white-house-official-wont-testify-in-impeachment-probe-without-order,False
+194,882776323,20191028,"County Leitrim, Leitrim, Ireland",CRIMINAL,,https://www.bbc.com/news/world-europe-50209923,True
+195,882691845,20191028,"Washington, District of Columbia, United States",IRAN,,http://english.alarabiya.net/en/business/2019/10/28/Stay-tuned-Live-coverage-of-Saudi-Arabia-s-Future-Investment-Initiative.html,False
+196,882686539,20191028,,SYRIA,UNITED STATES,https://www.ibtimes.com/trump-confirms-death-islamic-state-group-chief-baghdadi-us-raid-2854581,True
+197,882851275,20191028,Canada,CANADA,MEXICO,https://www.feedstuffs.com/news/clock-ticking-usmca-passage,False
+198,882854948,20191028,"Anoka, Minnesota, United States",MINNESOTA,,https://www.southernminn.com/faribault_daily_news/news/state/article_24577728-f179-5f4f-8336-050a81d953bc.html,True
+199,882728024,20191028,"Shiv, Rajasthan, India",,GOVERNMENT,https://www.ndtv.com/india-news/maharashtra-election-results-2019-shiv-senas-sanjay-raut-to-ndtv-bjp-cant-renege-on-50-50-formula-ag-2123574,True
+200,882864283,20191028,"Illinois, United States",COMPANY,UNITED STATES,https://www.prnewswire.com:443/news-releases/largest-usda-certified-organic-job-completed-300946688.html,False
+201,882841565,20191028,"Lugano, Ticino, Switzerland",COMMUNITY,,https://www.findaphd.com/phds/project/perceptually-driven-optimizations-of-graphics-content-for-novel-displays/?p106352,False
+202,882702759,20191028,"District of Columbia, United States",GOVERNMENT OFFICIAL,SETTLEMENT,https://www.tennessean.com/story/news/2019/10/22/opioid-settlements-mckesson-teva-could-fund-addiction-treatment/4060147002/,False
+203,882764237,20191028,Chad,,CHAD,https://africanbusinessmagazine.com/sectors/environment/africa-backs-thunbergs-calls-for-radical-climate-action/,False
+204,882739816,20191028,"Dhaka, Dhaka, Bangladesh",DHAKA,BANGLADESH,http://www.bssnews.net/?p=293882,False
+205,882689476,20191028,,,LIBYA,https://allafrica.com/stories/201910280007.html,True
+206,882826730,20191028,Canada,,CANADA,https://www.globalmeatnews.com/Article/2019/10/28/Canadian-pork-industry-assesses-ASF-preparations,True
+207,882796947,20191028,"Delaware, United States",STUDENT,,https://lacrossetribune.com/news/state-and-regional/wi/toxic-lab-lasted-for-years-uw-madison-had-little-idea/article_432089e7-0404-5fa1-8245-28c82098cc96.html,False
+208,882810468,20191028,"Edwardsville, Illinois, United States",UNITED STATES,,https://www.thetelegraph.com/news/article/Cochran-honored-on-100th-birthday-14568334.php,False
+209,882712841,20191028,Belgium,DENMARK,ROMANIA,https://www.aerotechnews.com/blog/2018/10/19/u-s-airman-involved-in-su-27ub-crash/,False
+210,882833173,20191028,"Chicago, Illinois, United States",,PRESIDENT,https://chicago.suntimes.com/politics/2019/10/28/20936752/president-trump-chicago-protesters-crowd,False
+211,882825209,20191028,"Ohio, United States",OHIO,,https://fox8.com/2019/10/28/two-pedestrians-killed-in-separate-crashes-in-summit-county/,False
+212,882793773,20191028,Ukraine,SENATE,ENVOY,https://www.jsonline.com/story/news/politics/2019/10/28/ron-johnson-met-ukrainian-diplomat-two-weeks-before-trump-call/3942618002/,False
+213,882814269,20191028,"Manila, Manila, Philippines",CHINA,MANILA,https://asia.nikkei.com/Politics/International-relations/Putin-accepts-Philippine-invitation-in-win-for-Duterte-diplomacy,False
+214,882826673,20191028,Afghanistan,DUBAI,INTERNATIONAL MONETARY FUND,http://www.wam.ae/en/details/1395302798234,False
+215,882752833,20191028,"Naivasha, Rift Valley, Kenya",GOVERNMENT,KENYA,https://www.nation.co.ke/news/8-counties-EACC-radar-over-graft/1056-5327904-1hyevt/,False
+216,882787661,20191028,Syria,,UNITED STATES,https://www.newscentermaine.com/article/news/local/mother-of-slain-nh-journalist-speaks-out-on-death-of-isis-group-leader/97-df12105e-e05a-4587-8309-242c207c083b,False
+217,882695304,20191028,"Kano, Kano, Nigeria",,,https://punchng.com/lagos-south-consume-70-of-kano-rice/,False
+218,882723185,20191028,,JERSEY,,https://www.thedailyjournal.com/story/news/2019/10/28/cherry-hill-police-search-drugs-guns-james-harmon-victor-huertas/2476531001/,False
+219,882820209,20191028,"Alabama, United States",METHODIST CHURCH,UNITED STATES,https://www.al.com/news/birmingham/2019/10/aniah-blanchards-father-missing-teens-disappearance-is-devastating.html,False
+220,882825030,20191028,Syria,SYRIA,AMMAN,https://www.northcountrypublicradio.org/news/npr/773424283/a-teen-refugee-s-brain-may-be-disrupted-more-by-poverty-than-past-trauma,False
+221,882688113,20191028,"White House, District of Columbia, United States",IRAQ,TURKEY,http://www.frontpagemag.com/fpm/2019/10/how-baghdadis-death-reveals-trumps-clever-syria-joseph-klein/,False
+222,882700054,20191028,"Trinity Beach, Queensland, Australia",AUSTRALIA,,https://www.cairnspost.com.au/news/cairns/ten-of-the-mustread-stories-from-the-far-north-this-past-week/news-story/459f69487b9db90a7e9259dba7c9887c?nk=911c00324cd7db2aa0b680faa5986553-1572246170,True
+223,882732109,20191028,Malta,BANK,MALTA,https://www.maltatoday.com.mt/announcements/announcements/98288/aps_to_hold_malta_sustainability_forum,False
+224,882830551,20191028,,OMAN,VOTER,http://www.china.org.cn/world/Off_the_Wire/2019-10/29/content_75349417.htm,False
+225,882819687,20191028,Libya,OBAMA,BENGHAZI,https://www.nbcsandiego.com/news/politics/Pompeo-Continues-Europe-Tour-Impeachment-Inquiry-562257321.html,True
+226,882778417,20191028,"New Kingston, Saint Andrew, Jamaica",DETECTIVE,KINGSTON,http://jamaica-star.com/article/news/20191028/news-go,True
+227,882835843,20191028,"Kerrville, Texas, United States",POLICE,,https://dailytimes.com/promotions/article_f9680ddc-f9a6-11e9-a9c0-0fadb1f88a61.html,False
+228,882693463,20191028,United States,STUDENT,UNITED STATES,https://www.dailytargum.com/article/2019/10/israeli-partnership-must-prioritize-peace,True
+229,882649879,20191028,,POLICE,,https://www.3yb.com.au/articles/goat-thefts/,False
+230,882833370,20191028,"White House, District of Columbia, United States",THE WHITE HOUSE,PRESIDENT,https://www.mysanantonio.com/opinion/commentary/article/Donald-Trump-life-of-a-zombie-party-14568379.php,False
+231,882807370,20191028,Russia,RUSSIA,UNITED NATIONS,https://www.redstate.com/sister-toldjah/2019/10/28/watch-nsa-adviser-shuts-chuck-todd-russia-notified-advance-isis-raid/,False
+232,882821488,20191028,Ukraine,UKRAINE,BENGHAZI,https://www.nbclosangeles.com/news/politics/Trump-Impeachment-Inquiry-What-Happened-This-Week-562269451.html,True
+233,882710705,20191028,"Jerusalem, Israel (general), Israel",MINISTRY,,https://af.reuters.com/article/energyOilNews/idAFL8N27D16A,False
+234,882818566,20191028,"Maryland, United States",MAYOR,DELEGATE,https://www.washingtonpost.com/local/md-politics/hogan-announces-special-elections-to-succeed-late-rep-elijah-cummings/2019/10/28/0c1abde8-f994-11e9-8906-ab6b60de9124_story.html,False
+235,882740746,20191028,Taiwan,QUALCOMM,,https://www.theinquirer.net/inquirer/news/3065654/iphone-12-release-date-price-specs-120hz-promotion-display-rumour,False
+236,882749489,20191028,"Dzorap, Aragatsotn, Armenia",ARARAT,YEREVAN,https://news.am/eng/news/541242.html,False
+237,882812622,20191028,Ghana,GHANAIAN,GHANA,https://www.graphic.com.gh/news/general-news/massacre-of-44-ghanaians-in-the-gambia-victims-families-want-to-testify-before-trrc.html,False
+238,882663639,20191028,"Sochi, Krasnodarskiy Kray, Russia",RUSSIA,AFRICA,https://www.dailymaverick.co.za/article/2019-10-28-russias-scramble-for-africa/,False
+239,882702713,20191028,Romania,UNITED KINGDOM,ROMANIA,https://www.namibian.com.na/84828/read/Dread-builds-in-Vietnam-over-fate-of-missing-UK-migrants,False
+240,882742737,20191028,"Antioquia, Cundinamarca, Colombia",COLOMBIA,SUPREME COURT,https://colombiareports.com/why-uribe-might-be-worried-and-distressed-over-colombias-trial-of-the-century/,True
+241,882849857,20191028,"Connecticut, United States",CONNECTICUT,ATTORNEY,https://www.ctinsider.com/politics/ctpost/article/Russia-investigation-draws-CT-U-S-Attorney-to-14568721.php,True
+242,882705777,20191028,India,,MALAYS,https://www.nst.com.my/news/nation/2019/10/533829/traders-killing-locally-made-songket-says-entrepreneur,False
+243,882862612,20191028,Australia,,PRINCE,https://www.express.co.uk/life-style/life/1196825/prince-harry-william-news-latest-feud-relationship,False
+244,882836134,20191028,"Dzolo Kpuita, Ghana (general), Ghana",GHANA,,https://ghananewsagency.org/science/ho-west-district-introduces-stool-farms--158731,False
+245,882654344,20191028,"Wisconsin, United States",JOE BIDEN,JOE BIDEN,https://www.sltrib.com/opinion/commentary/2019/10/28/ej-dionne-trumps-madness/,False
+246,882655983,20191028,"Nebraska, United States",UNITED STATES,POLICE,https://www.dailymail.co.uk/wires/ap/article-7609529/amp/Nebraska-deputy-accused-fraud-costing-victims-nearly-11M.html,True
+247,882840420,20191028,"Church Rock, New Mexico, United States",NAVAJO,UNITED STATES,https://www.fbi.gov/wanted/seeking-info/nastacio-keith-travis,False
+248,882653764,20191028,"Karachi, Sindh, Pakistan",PAKISTAN,,https://in.news.yahoo.com/vok-points-pak-hypocrisy-over-kashmir-issue-023649176.html,False
+249,882697410,20191028,United States,UNITED STATES,,https://www.wfuv.org/content/avett-brothers-2,True
+250,882841487,20191028,,CHRISTIAN,JEWISH,https://www.americamagazine.org/politics-society/2019/10/28/jewish-christian-and-muslim-leaders-sign-declaration-against-euthanasia,False
+251,882667482,20191028,"White House, District of Columbia, United States",UNITED STATES,THE WHITE HOUSE,https://www.indiatvnews.com/news/world/isis-new-leader-named-al-baghdadi-killed-by-us-troops-donald-trump-559460,True
+252,882693455,20191028,United States,STUDENT,,https://www.dailytargum.com/article/2019/10/israeli-partnership-must-prioritize-peace,True
+253,882740708,20191028,"Taxila, Punjab, Pakistan",MILITARY,GOVERNMENT,https://www.defenceweb.co.za/aerospace/aerospace-aerospace/pakistan-air-force-chief-visits-south-africa/,False
+254,882689477,20191028,United States,,LIBYA,https://allafrica.com/stories/201910280007.html,True
+255,882838502,20191028,"Leningrad, Sankt-Peterburg, Russia",,CHILEAN,https://www.cato.org/blog/vladimir-konstantinovich-bukovsky-1942-2019,False
+256,882821137,20191028,China,,UKRAINE,https://peacenow.org/entry.php?id=32375,True
+257,882678625,20191028,"Palomar College, California, United States",UNITED STATES,SCHOOL,https://www.sandiegouniontribune.com/communities/north-county/sd-no-womens-march-20180120-story.html,False
+258,882829730,20191028,"Walthamstow, Waltham Forest, United Kingdom",POLICE,UNITED KINGDOM,https://www.eastlondonadvertiser.co.uk/news/politics/labour-general-election-at-poplar-limehouse-1-6345244,False
+259,882807039,20191028,Israel,ADVOCATE,MILITARY,https://www.jweekly.com/2019/10/28/j-street-presses-candidates-on-conditioning-aid-to-israel/,False
+260,882740852,20191028,"Manila, Manila, Philippines",MANILA,PRESIDENT,https://news.abs-cbn.com/news/10/28/19/duterte-warns-of-takeover-amid-looming-water-crisis,False
+261,882768344,20191028,"Montana, United States",UNITED STATES,,https://www.swxrightnow.com/stories/2019/oct/28/urge-to-view-grizzly-bears-collides-with-growing-p/,True
+262,882821965,20191028,Spain,VATICAN,MINIST,https://www.lifesitenews.com/news/vatican-leaves-out-call-for-womens-ministries-from-english-version-of-amazon-synods-final-doc,False
+263,882732892,20191028,United States,NORTH AMERICA,UNITED STATES,http://freerepublic.com/focus/f-bloggers/3789546/posts,True
+264,882724318,20191028,"Zeebrugge, Region Flamande, Belgium",,UNITED KINGDOM,https://www.thesun.co.uk/news/10226000/mo-robinson-essex-lorry-driver-court-manslaughter/,False
+265,882799531,20191028,"Ohio, United States",HIGH COURT,,https://radio.wosu.org/post/nuclear-bailout-opponents-pin-hopes-ohio-supreme-court,False
+266,882693666,20191028,Jamaica,JAMAICA,,http://www.jamaicaobserver.com/all-woman/god-s-grace-and-mercy-brought-dalmae-dyer-through-breast-cancer_178005?profile=1253&template=AllWomenArticle,False
+267,882776826,20191028,"Calgary, Alberta, Canada",LABOUR MINIST,,https://www.cbc.ca/news/canada/calgary/alberta-summer-temporary-employment-program-1.5337557,False
+268,882724870,20191028,,ALLAHABAD,MUSLIM,http://newageislam.com/islamic-personalities/rakhshanda-jalil/iqbal%E2%80%99s-romantic-nationalism-underwent-a-change-in-the-light-of-influences-as-diverse-as-nietzsche-and-bergson-and-marx/d/120107,False
+269,882835887,20191028,"Phillipsburg, New Jersey, United States",STATE PRISON,SUPERIOR COURT,https://patch.com/new-jersey/woodbridge/former-top-priest-faces-new-abuse-claims-nj-crackdown-grows,False
+270,882770352,20191028,,CRIMINAL,,https://bringmethenews.com/minnesota-news/woman-found-dead-man-injured-in-mendota-heights-home,True
+271,882824279,20191028,"Valga, Valgamaa, Estonia",ESTONIA,,https://news.err.ee/996815/storm-shows-estonia-not-ready-for-crises-yet,False
+272,882656032,20191028,"Nebraska, United States",NEBRASKA,AUTHORITIES,https://www.dailymail.co.uk/wires/ap/article-7609529/amp/Nebraska-deputy-accused-fraud-costing-victims-nearly-11M.html,False
+273,882841327,20191028,"West Point, Balochistan, Pakistan",,CHINOOK,https://www.armytimes.com/news/your-army/2019/10/28/west-point-honors-pilot-who-took-out-insurgents-inside-pakistan-during-ranger-exfil/,False
+274,882661208,20191028,"Essex, Essex, United Kingdom",UNITED KINGDOM,DUBLIN,https://www.basildonstandard.co.uk/news/17996861.essex-lorry-deaths-family-begged-vietnamese-woman-not-go/,False
+275,882669152,20191028,"Idlib, Idlib, Syria",THE US,RUSSIAN,https://www.ndtv.com/world-news/donald-trump-on-raid-against-abu-bakr-al-baghdadi-says-it-was-like-watching-a-movie-2123438,False
+276,882869799,20191028,"Hawaii, United States",UNITED STATES,BOEING,https://www.heraldnet.com/northwest/faa-jets-hit-by-lasers-while-approaching-sea-tac-airport/,False
+277,882661799,20191028,India,NEW HAMPSHIRE,,https://www.bostonglobe.com/metro/2019/10/27/bill-weld-calls-for-trump-removal-forum/q6NNXOQNbzYRKvRTWbtGGN/story.html,False
+278,882836815,20191028,Hungary,RUSSIA,CHINA,https://slate.com/news-and-politics/2019/10/viktor-orban-trump-hungary-ukraine-soros.html,False
+279,882869157,20191028,"Doha, Ad Daw?ah, Qatar",JORDANIAN,QATAR,http://jordantimes.com/news/local/jordanian-delegation-qatari-ministers-discuss-expanding-cooperation,False
+280,882749064,20191028,"Chuka, Eastern, Kenya",KENYA,VILLAGE,https://allafrica.com/stories/201910280424.html,False
+281,882869308,20191028,"Whanganui, New Zealand (general), New Zealand",NEW ZEALAND,,https://www.nzherald.co.nz/wanganui-chronicle/news/article.cfm?c_id=1503426&objectid=12280410,False
+282,882840151,20191028,"New Milford, New York, United States",UNITED STATES,AUTHORITIES,https://patch.com/new-jersey/newmilford-nj/darren-drake-act-will-try-end-vehicle-based-terror-attacks,False
+283,882793875,20191028,"Calabar, Cross River, Nigeria",NIGERIA,,https://www.today.ng/news/nigeria/cross-river-governor-swears-members-state-judicial-service-commission-260139,False
+284,882760976,20191028,"Texas, United States",PRESIDENT,TEXAS,https://americanlaundrynews.com/articles/memoriam-lynn-dunning-north-texas-health-care-laundry,False
+285,882794390,20191028,,KANSAS,KANSAS,https://sentinelksmo.org/commerce-department-exludes-business-owners-economic-development-committee/,False
+286,882656135,20191028,"Mccormick Place, Illinois, United States",UNITED STATES,CHICAGO,https://wgntv.com/2019/10/27/president-trump-to-make-first-visit-to-chicago-since-taking-office/,False
+287,882666204,20191028,"White House, District of Columbia, United States",,UNITED STATES,https://www.indiatvnews.com/news/world/isis-new-leader-named-al-baghdadi-killed-by-us-troops-donald-trump-559460,True
+288,882649568,20191028,"Hollywood, California, United States",,BOSS,https://www.lmtonline.com/entertainment/article/NBC-News-can-t-seem-to-shake-Ronan-Farrow-and-14566610.php,False
+289,882807794,20191028,,HILLARY CLINTON,UNITED STATES,https://dailycaller.com/2019/10/28/dick-morris-hillary-clinton-god-put-her-earth-president/,False
+290,882849018,20191028,"Dewsbury, Kirklees, United Kingdom",UNITED KINGDOM,THE OPPOSITION,https://www.yorkshirepost.co.uk/news/politics/boris-johnson-s-third-attempt-at-general-election-fails-but-pm-to-take-another-shot-tomorrow-1-10073769,False
+291,882655982,20191028,"Dodge County, Nebraska, United States",UNITED STATES,POLICE,https://www.dailymail.co.uk/wires/ap/article-7609529/amp/Nebraska-deputy-accused-fraud-costing-victims-nearly-11M.html,True
+292,882729345,20191028,"Brussels, Bruxelles-Capitale, Belgium",,EUROPEAN UNION,https://www.news.com.au/world/europe/eu-agrees-to-postpone-britains-brexit-divorce-for-three-months/news-story/5a2b387549e9c4906da3739c1fbcd620,False
+293,882860762,20191028,"Florida, United States",NASA,ORLANDO,https://www.upi.com/Top_News/US/2019/10/28/Kennedy-Space-Center-to-award-7-billion-contract-for-lunar-missions/2631572296710/,False
+294,882724160,20191028,China,,EUROPEAN,https://www.maschinenmarkt.international/poland-increases-in-uncertain-environment-a-876908/,False
+295,882852593,20191028,Italy,TERRORIST ORGANIZATION,ITALY,https://themuse.jezebel.com/teresa-and-joe-giudices-marriage-is-crumbling-but-thei-1839418020,False
+296,882686537,20191028,"Barisha, Idlib, Syria",,UNITED STATES,https://www.ibtimes.com/trump-confirms-death-islamic-state-group-chief-baghdadi-us-raid-2854581,True
+297,882719700,20191028,"Moscow, Moskva, Russia",GOVERNMENT,UNITED STATES,https://www.citylandnyc.org/citylaw-profile-caroline-harris-all-roads-lead-to-land-use/,False
+298,882798429,20191028,"Antara, Aceh, Indonesia",,PAPUA,https://en.antaranews.com/news/135495/youfeta-bridge-to-be-marine-tourism-destination-president,False
+299,882657911,20191028,Poland,GOVERNMENT,,https://www.opendemocracy.net/en/global-extremes/whither-poland-after-2019-parliamentary-elections/,False
+300,882749598,20191028,"Michigan, United States",MICHIGAN,VOTER,https://www.heraldpalladium.com/news/local/voters-to-decide-marijuana-issue-in-south-haven/article_92418cd1-37dc-51d3-89bd-517fcadacc5c.html,False
+301,882827318,20191028,,HOSPITAL,CROOK,https://www.empireonline.com/movies/reviews/tales-from-the-lodge/,False
+302,882831675,20191028,"Pune, Maharashtra, India",COMPANY,PUNE,https://indianautosblog.com/bajaj-chetak-electric-ktm-p318779,False
+303,882729610,20191028,"Medani, Al Jazirah, Sudan",,UNIVERSITY,https://allafrica.com/stories/201910280174.html,False
+304,882678406,20191028,"White House, District of Columbia, United States",RUSSIAN,SYRIAN,https://www.dailytelegraph.com.au/donald-trump-its-time-to-let-someone-else-fight-in-middle-east/news-story/7fc850d5a09bf49d95702b011c43e9b5?nk=bdf5bba67257812587d53a0b14ef6f10-1572234443,False
+305,882786263,20191028,,,UNITED STATES,https://www.postbulletin.com/news/state/state-officials-to-hold-public-meetings-to-discuss-clean-car/article_e9250dc4-f98f-11e9-aba8-1b60abcab4a4.html,False
+306,882678051,20191028,"Washington, District of Columbia, United States",PRIME MINISTER,,https://www.kulr8.com/news/world/the-latest-erdogan-says-turkey-won-t-forget-trump-letter/article_a90d7771-8144-50ed-9700-cfe158f58265.html,False
+307,882694042,20191028,United States,UNITED STATES,,https://www.dailytargum.com/article/2019/10/israeli-partnership-must-prioritize-peace,True
+308,882819686,20191028,,SOUTH CAROLINA,ADVOCATE,https://www.history.com/this-day-in-history/three-protestors-die-in-the-orangeburg-massacre,False
+309,882746773,20191028,"Dallas, Texas, United States",,GREENVILLE,https://www.ftvlive.com/sqsp-test/2019/10/28/dallas-stations-news-car-was-hit-in-shooting,False
+310,882801941,20191028,"Washington, District of Columbia, United States",COMPANY,,https://www.businessinsider.com/certipath-government-contract-robert-trump-connection-2019-10,False
+311,882861730,20191028,"London, London, City of, United Kingdom",AFRICA,,https://newswirengr.com/2019/10/28/akachukwu-nwosu-poor-people-are-not-photo-props/,False
+312,882746428,20191028,"Kurikadduwan, Northern, Sri Lanka",,,http://www.adaderana.lk/news/58608/seven-arrested-over-illegal-fishing,False
+313,882776322,20191028,"Ballinamore, Leitrim, Ireland",CRIMINAL,,https://www.bbc.com/news/world-europe-50209923,True
+314,882748047,20191028,"Mongkok, Hong Kong (general), Hong Kong",,FINANCIAL SECRETARY,https://www.theepochtimes.com/hong-kong-enters-recession-as-protests-again-erupt-in-flames_3129564.html,False
+315,882741359,20191028,"Chicago, Illinois, United States",AMERICAN,,http://udreview.com/a-mixed-bag-of-shit-for-student-veterans-school-can-be-another-warzone/,False
+316,882706484,20191028,Malta,MALTA,POLICE,https://timesofmalta.com/articles/view/33-months-and-counting-jimmy-magro-case-still-pending.745077,True
+317,882821199,20191028,"Athens, AttikíR, Greece",DEMONSTRATOR,POLICE,https://www.avpress.com/news/newsline/greek-police-clash-with-students/article_9501a2f0-f6da-11e9-9e37-23ab2f696013.html,False
+318,882832764,20191028,Syria,RUSSIA,KURD,http://www.startribune.com/business-briefs-from-the-economist/563991432/,False
+319,882717573,20191028,"Norfolk, Virginia, United States",NAVAL,VIRGINIA,https://navaltoday.com/2019/10/28/uss-gerald-r-ford-returns-to-sea-after-overhaul/,False
+320,882654490,20191028,"Chungking, Chongqing, China",,BACKPACKER,https://www.9news.com.au/world/hk-protesters-hurl-petrol-bombs-at-police/e3667633-1987-40b1-abb9-b9dd92438d39,False
+321,882827347,20191028,Syria,THE UN,IRAN,https://www.trtworld.com/middle-east/un-envoy-to-meet-turkish-russian-iranian-foreign-ministers-30917,False
+322,882859994,20191028,,WORKER,UNITED STATES,http://www.courant.com/news/connecticut/hc-news-connecticut-lamont-opioid-20191028-vvs7dznvdvcsnkh6hbqvrpynt4-story.html,False
+323,882688022,20191028,"White House, District of Columbia, United States",PRESIDENT,UNITED STATES,http://www.frontpagemag.com/fpm/2019/10/how-baghdadis-death-reveals-trumps-clever-syria-joseph-klein/,False
+324,882855186,20191028,"San Antonio, Texas, United States",BARACK OBAMA,,https://www.dailymail.co.uk/wires/reuters/article-7613213/amp/Trump-Democrats-address-criminal-justice-reforms-South-Carolina-forum.html,False
+325,882812100,20191028,Ukraine,BELGIUM,UKRAINE,https://www.thestar.com/news/world/europe/2019/10/28/russia-ukraine-fail-to-clinch-gas-deal-amid-fears-of-cuts.html,False
+326,882743790,20191028,"Misamis Occidental, Misamis Occidental, Philippines",MANILA,POLICE,https://newsinfo.inquirer.net/1182756/duterte-now-suspecting-cops-killed-misamis-occ-mayor,True
+327,882807484,20191028,Ethiopia,AMERICAN,,https://www.nbcdfw.com/news/business/American-Airlines-Pushes-Back-Expected-Return-of-737-MAX-Planes-562616151.html,False
+328,882831377,20191028,"Montreal, Quebec, Canada",,CANADA,https://leaderpost.com/opinion/columnists/martin-patriquin-scheer-was-out-of-sync-with-quebec/wcm/5e5828d2-d7eb-4d7a-9c1a-7d114eb91af3,True
+329,882753051,20191028,Maldives,,,https://maldivesindependent.com/politics/monday-roundup-income-tax-record-budget-and-corruption-probes-148831,False
+330,882742350,20191028,Vatican City,,CHRISTIAN,http://www.heraldmalaysia.com/news/pope-asks-for-focus-on-diagnosis-of-amazon-synod-report-warns-against-elite-christians-focusing-on-the-little-things/50107/1,False
+331,882788712,20191028,"White House, District of Columbia, United States",ATTORNEY,NATIONAL SECURITY ADVISER,https://www.upi.com/Top_News/US/2019/10/28/Former-White-House-security-official-skips-impeachment-hearing/2121572265183/,False
+332,882666740,20191028,Iran,GOVERNMENT,WASHINGTON,https://www.hellenicshippingnews.com/tankers-sail-after-u-s-allows-sanctions-hit-cosco-unit-to-wind-down-oil-deals/,False
+333,882688514,20191028,"Damascus, Dimashq, Syria",SYRIAN,TURKEY,https://bdnews24.com/world/middle-east/2019/10/28/syrian-kurdish-forces-say-leaving-turkish-border-area-damascus-welcomes-move,False
+334,882775875,20191028,"Paris, France (general), France",,PARIS,https://www.politifact.com/truth-o-meter/article/2019/oct/28/earth-has-rapidly-warmed-over-past-century-can-pol/,False
+335,882793617,20191028,,IRAQI,,https://lobelog.com/what-al-baghdadis-death-means-for-trump-and-the-future-of-isis/,False
+336,882790609,20191028,"London, London, City of, United Kingdom",,,https://www.channelstv.com/2019/10/28/uk-parties-argue-over-election-as-eu-mulls-brexit-extension/,False
+337,882854090,20191028,Indonesia,CRIMINAL,,https://news.abs-cbn.com/news/10/29/19/navy-seizes-p300-million-worth-of-smuggled-cigarettes-off-sulu,True

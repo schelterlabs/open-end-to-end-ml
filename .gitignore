@@ -1,0 +1,5 @@
+env/
+dataset-creation/
+*.ipynb
+.idea/
+**/__pycache__/
