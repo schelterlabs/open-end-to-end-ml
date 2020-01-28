@@ -1,5 +1,3 @@
-from abc import ABC, abstractmethod
-
 import pandas as pd
 import numpy as np
 
@@ -7,8 +5,16 @@ from sklearn.preprocessing import label_binarize
 from sklearn.metrics import roc_auc_score
 from sklearn.pipeline import Pipeline
 
+from open_end_to_end_ml.steps import DataAugmentation, DataCleaning, FeatureAdder, ModelTrainer
 
-class ArticlesToInvestigateTask(ABC):
+
+class ArticlesToInvestigateTask:
+
+    def __init__(self, augmentation, cleaning, feature_adder, model_trainer):
+        self.augmentation = augmentation
+        self.cleaning = cleaning
+        self.feature_adder = feature_adder
+        self.model_trainer = model_trainer
 
     def __load_raw_data(self, days):
         return {
@@ -37,18 +43,6 @@ class ArticlesToInvestigateTask(ABC):
         predictions = model.predict_proba(data)
         return roc_auc_score(true_labels, np.transpose(predictions)[1])
 
-    @abstractmethod
-    def augment(self, prepared_data):
-        pass
-
-    @abstractmethod
-    def clean(self, augmented_data):
-        pass
-
-    @abstractmethod
-    def create_pipeline(self):
-        pass
-
     def run(self):
         name = self.__class__.__name__
         past_days = []
@@ -70,16 +64,19 @@ class ArticlesToInvestigateTask(ABC):
         train_data = self.__integrate(raw_train_data)
         test_data = self.__integrate(raw_test_data)
 
-        augmented_train_data = self.augment(train_data)
-        augmented_test_data = self.augment(test_data)
+        augmented_train_data = self.augmentation.augment(train_data)
+        augmented_test_data = self.augmentation.augment(test_data)
 
-        cleaned_train_data = self.clean(augmented_train_data)
-        cleaned_test_data = self.clean(augmented_test_data)
+        cleaned_train_data = self.cleaning.clean(augmented_train_data)
+        cleaned_test_data = self.cleaning.clean(augmented_test_data)
 
-        train_labels = self.__extract_labels(cleaned_train_data)
-        test_labels = self.__extract_labels(cleaned_test_data)
+        final_train_data = self.feature_adder.add(cleaned_train_data)
+        final_test_data = self.feature_adder.add(cleaned_test_data)
 
-        pipeline = self.create_pipeline()
+        train_labels = self.__extract_labels(final_train_data)
+        test_labels = self.__extract_labels(final_test_data)
+
+        pipeline = self.model_trainer.create_pipeline()
 
         model = pipeline.fit(cleaned_train_data, train_labels)
 

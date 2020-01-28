@@ -5,19 +5,26 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.feature_extraction.text import HashingVectorizer
 from sklearn.pipeline import Pipeline
 
-from open_end_to_end_ml.tasks import ArticlesToInvestigateTask
+from open_end_to_end_ml.steps import DataAugmentation, DataCleaning, FeatureAdder, ModelTrainer
 
 
-class ArticlesToInvestigateLogisticRegression(ArticlesToInvestigateTask):
+class NoDataAugmentation(DataAugmentation):
+    def augment(self, data):
+        return data
 
-    def augment(self, prepared_data):
-        prepared_data['title_and_description'] = \
-            prepared_data[['title', 'description']].apply(lambda x: ' '.join(x), axis=1)
-        return prepared_data
 
-    def clean(self, augmented_data):
-        return augmented_data
+class NoDataCleaning(DataCleaning):
+    def clean(self, data):
+        return data
 
+
+class ArticlesToInvestigateTextualFeatureAdder(FeatureAdder):
+    def add(self, data):
+        data['title_and_description'] = data[['title', 'description']].apply(lambda x: ' '.join(x), axis=1)
+        return data
+
+
+class ArticlesToInvestigateLogisticRegressionTrainer(ModelTrainer):
     def create_pipeline(self):
         categorical_attributes = ['ActionGeo_Fullname', 'Actor1Name', 'Actor2Name', 'site_name']
 
