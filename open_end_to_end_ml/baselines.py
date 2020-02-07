@@ -9,23 +9,23 @@ from open_end_to_end_ml.steps import DataAugmentation, DataCleaning, FeatureAdde
 
 
 class NoDataAugmentation(DataAugmentation):
-    def augment(self, data):
+    def augment(self, data, random_state, is_train):
         return data
 
 
 class NoDataCleaning(DataCleaning):
-    def clean(self, data):
+    def clean(self, data, random_state, is_train):
         return data
 
 
 class ArticlesToInvestigateTextualFeatureAdder(FeatureAdder):
-    def add(self, data):
+    def add(self, data, random_state, is_train):
         data['title_and_description'] = data[['title', 'description']].apply(lambda x: ' '.join(x), axis=1)
         return data
 
 
 class ArticlesToInvestigateLogisticRegressionTrainer(ModelTrainer):
-    def create_pipeline(self):
+    def create_pipeline(self, random_state):
         categorical_attributes = ['ActionGeo_Fullname', 'Actor1Name', 'Actor2Name', 'site_name']
 
         feature_transformation = ColumnTransformer(transformers=[

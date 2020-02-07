@@ -3,3 +3,4 @@ dataset-creation/
 *.ipynb
 .idea/
 **/__pycache__/
+*-log.csv

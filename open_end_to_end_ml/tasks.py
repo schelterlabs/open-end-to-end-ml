@@ -3,14 +3,13 @@ import numpy as np
 
 from sklearn.preprocessing import label_binarize
 from sklearn.metrics import roc_auc_score
-from sklearn.pipeline import Pipeline
-
-from open_end_to_end_ml.steps import DataAugmentation, DataCleaning, FeatureAdder, ModelTrainer
 
 
 class ArticlesToInvestigateTask:
 
-    def __init__(self, augmentation, cleaning, feature_adder, model_trainer):
+    def __init__(self, random_state, run_name, augmentation, cleaning, feature_adder, model_trainer):
+        self.random_state = random_state
+        self.run_name = run_name
         self.augmentation = augmentation
         self.cleaning = cleaning
         self.feature_adder = feature_adder
@@ -44,18 +43,28 @@ class ArticlesToInvestigateTask:
         return roc_auc_score(true_labels, np.transpose(predictions)[1])
 
     def run(self):
+
+        np.random.seed(self.random_state)
+
         name = self.__class__.__name__
         past_days = []
         current_day = 20191001
 
-        print("name\tday\ttrain_score\ttest_score")
+        logfile_name = f'{name.lower()}-{self.run_name.lower()}-{self.random_state}-log.csv'
 
-        for _ in range(0, 30):
-            past_days.append(current_day)
-            current_day += 1
+        with open(logfile_name, 'w') as log_file:
 
-            train_score, test_score = self.__run_single(past_days, current_day)
-            print(f"{name}\t{current_day}\t{train_score}\t{test_score}")
+            log_file.write("task\trun\tseed\tday\ttrain_score\ttest_score\n")
+            print("task\trun\tseed\tday\ttrain_score\ttest_score")
+
+            for _ in range(0, 30):
+                past_days.append(current_day)
+                current_day += 1
+
+                train_score, test_score = self.__run_single(past_days, current_day)
+                log_file.write(f"{name}\t{self.run_name}\t{self.random_state}\t{current_day}\t{train_score}\t{test_score}\n")
+                print(f"{name}\t{self.run_name}\t{self.random_state}\t{current_day}\t{train_score}\t{test_score}")
+
 
     def __run_single(self, past_days, next_day):
         raw_train_data = self.__load_raw_data(past_days)
@@ -64,23 +73,23 @@ class ArticlesToInvestigateTask:
         train_data = self.__integrate(raw_train_data)
         test_data = self.__integrate(raw_test_data)
 
-        augmented_train_data = self.augmentation.augment(train_data)
-        augmented_test_data = self.augmentation.augment(test_data)
+        augmented_train_data = self.augmentation.augment(train_data, self.random_state, is_train=True)
+        augmented_test_data = self.augmentation.augment(test_data, self.random_state, is_train=False)
 
-        cleaned_train_data = self.cleaning.clean(augmented_train_data)
-        cleaned_test_data = self.cleaning.clean(augmented_test_data)
+        cleaned_train_data = self.cleaning.clean(augmented_train_data, self.random_state, is_train=True)
+        cleaned_test_data = self.cleaning.clean(augmented_test_data, self.random_state, is_train=False)
 
-        final_train_data = self.feature_adder.add(cleaned_train_data)
-        final_test_data = self.feature_adder.add(cleaned_test_data)
+        final_train_data = self.feature_adder.add(cleaned_train_data, self.random_state, is_train=True)
+        final_test_data = self.feature_adder.add(cleaned_test_data, self.random_state, is_train=False)
 
         train_labels = self.__extract_labels(final_train_data)
         test_labels = self.__extract_labels(final_test_data)
 
-        pipeline = self.model_trainer.create_pipeline()
+        pipeline = self.model_trainer.create_pipeline(self.random_state)
 
-        model = pipeline.fit(cleaned_train_data, train_labels)
+        model = pipeline.fit(final_train_data, train_labels)
 
-        train_score = self.__score(model, cleaned_train_data, train_labels)
-        test_score = self.__score(model, cleaned_test_data, test_labels)
+        train_score = self.__score(model, final_train_data, train_labels)
+        test_score = self.__score(model, final_test_data, test_labels)
 
         return train_score, test_score
