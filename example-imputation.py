@@ -24,7 +24,7 @@ class ModeImputation(DataCleaning):
 
         for column in self.columns:
             value_to_impute = self.most_frequent_values_per_column[column]
-            imputed_data[column].fillna(value_to_impute, inplace=True)
+            imputed_data[column].replace('', value_to_impute, inplace=True)
 
         return imputed_data
 
