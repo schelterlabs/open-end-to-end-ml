@@ -145,7 +145,7 @@ class PipelineWithPPP:
     def __init__(self, 
                 pipeline, 
                 num_repetitions=10, 
-                perturbation_fractions=np.linspace(0,1,11)):
+                perturbation_fractions=[.1, .2, .5, .9]):
         self.pipeline = pipeline
         self.num_repetitions = num_repetitions
         self.perturbation_fractions = perturbation_fractions
@@ -165,18 +165,27 @@ class PipelineWithPPP:
         self.perturbations = []
         for _ in range(self.num_repetitions):
             for fraction in self.perturbation_fractions:
+                column_pairs = list(itertools.combinations(self.numerical_features + self.categorical_features, 2))
+                swap_affected_column_pair = random.choice(column_pairs)
+                self.perturbations.append(('swapped', SwappedValues(fraction, swap_affected_column_pair)))
                 
-                numerical_column_pairs = list(itertools.combinations(self.numerical_features, 2))
-                swap_affected_column_pair = random.choice(numerical_column_pairs)
-                affected_numeric_column = random.choice(self.numerical_features)
-                affected_categorical_column = np.random.choice(self.categorical_features)
+                if self.numerical_features:
+                    
+                    affected_numeric_columns = [random.choice(self.numerical_features)]
+                    
+                    self.perturbations += [
+                    ('scaling', Scaling(fraction, affected_numeric_columns)),
+                    ('outlier', Outliers(fraction, affected_numeric_columns)),
+                    ]
+                else:
+                    affected_numeric_columns = []
+                
+                if self.categorical_features:
+                    affected_categorical_columns = [random.choice(self.categorical_features)]
 
                 self.perturbations += [
-                    ('swapped', SwappedValues(fraction, swap_affected_column_pair)),
-                    ('scaling', Scaling(fraction, [affected_numeric_column])),
-                    ('outlier', Outliers(fraction, [affected_numeric_column])),
-                    ('missing_high_entropy', MissingValuesHighEntropy(fraction, pipeline, [affected_categorical_column], [affected_numeric_column])),
-                    ('missing_low_entropy', MissingValuesLowEntropy(fraction, pipeline, [affected_categorical_column], [affected_numeric_column])),
+                    ('missing_high_entropy', MissingValuesHighEntropy(fraction, pipeline, affected_categorical_columns, affected_numeric_columns)),
+                    ('missing_low_entropy', MissingValuesLowEntropy(fraction, pipeline, affected_categorical_columns, affected_numeric_columns)),
                 ]
 
 
@@ -220,6 +229,8 @@ class PipelineWithPPP:
                                 param_grid, 
                                 scoring='neg_mean_absolute_error')\
                                     .fit(meta_features, meta_scores)
+        
+        return self
 
     def predict_ppp(self, X_df):
         meta_features = self.compute_ppp_features(self.pipeline.predict_proba(X_df))
